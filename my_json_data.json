@@ -1,0 +1,12 @@
+{
+    "1234": {
+        "name": "Sebastian",
+        "age": 44,
+        "color": "Blue"
+    },
+    "3333": {
+        "name": "KalleAnka",
+        "age": 22,
+        "color": "Red"
+    }
+}

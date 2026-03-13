@@ -1,0 +1,16 @@
+[
+  {
+    "Sebastian": {
+      "age": 88,
+      "food": "Hamburgare",
+      "color": "red"
+    }
+  },
+  {
+    "Nina": {
+      "age": 22,
+      "food": "Pizza",
+      "color": "blue"
+    }
+  }
+]
